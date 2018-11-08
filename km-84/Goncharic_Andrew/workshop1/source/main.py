@@ -3,7 +3,7 @@
 """
 
 
-from lab_1_ import *
+from .lab_1_ import *
 
 if __name__ == "__main__":
 
